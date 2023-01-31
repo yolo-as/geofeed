@@ -1,0 +1,7 @@
+# prefix,country_code,region_code,city,postal
+195.43.159.0/24,NO,NO-03,Oslo,0050
+195.47.210.0/24,NO,NO-03,Oslo,0050
+195.47.212.0/24,NO,NO-03,Oslo,0050
+195.47.216.0/24,NO,NO-03,Oslo,0050
+2a0f:b6c0::/29,NO,NO-03,Oslo,0050
+
